@@ -93,21 +93,19 @@ LinkedIn: https://www.linkedin.com/in/kathpay/
 Website: https://holisticemailmarketing.com
 Newsletter: Dear Marketer
 Followers: 11,111
-
-Verification Status: Verified June 21, 2026
-LinkedIn Last Active: June 19, 2026
-Recent Content Reviewed:
-- What makes you want to open an email - inbox placement psychology
-- Newsletter Dear Marketer actively published weekly
+Verified: June 21, 2026. Last Active: June 19, 2026
+Recent: inbox placement psychology post, Dear Marketer newsletter active
 
 Why Selected:
 Kath has 27+ years of email marketing experience and is author
 of a bestselling email marketing book on Amazon. CEO of Holistic
-Email Marketing, trains top brands globally.
+Email Marketing, trains top brands globally. Evidence-based and
+psychology-driven approach — deepest pure email expertise in list.
 
-Why NOT Rejected replacing Will Allred:
+Why NOT Rejected (replacing Will Allred):
 Will Allred left Lavender, LinkedIn inactive 1 year.
-Kath Pay selected - active content, 27 years pure email expertise.
+Kath Pay selected — active content, 27 years pure email expertise,
+Amazon bestselling author, actively publishing Dear Marketer weekly.
 
 Core Expertise:
 - Email strategy and customer-centric philosophy
@@ -117,4 +115,6 @@ Core Expertise:
 Content Collected:
 - LinkedIn posts: /research/linkedin-posts/kath-pay/
 - YouTube transcripts: /research/youtube-transcripts/kath-pay/
+
+---
 
