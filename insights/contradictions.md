@@ -5,6 +5,18 @@
 
 ---
 
+## Contradiction Matrix
+
+| Contradiction | Expert A | Expert B | Resolution |
+|---|---|---|---|
+| Email frequency | Dave Gerhardt: weekly consistency | Kath Pay: match engagement level | Pre-PMF: weekly. Mature list: test cadence |
+| Personalization | Brennan Dunn: behavioral deep | Val Geisler: plain text wins | Cold/new: plain text. Retention: behavioral |
+| Newsletter purpose | Trust-first philosophy | Revenue-focused approach | New list 0-6mo: value. Established: balance |
+| AI in email | Kath Pay: accelerates execution | Kath Pay: produces garbage | Key: train on proprietary data, not web content |
+| Open rate | Still contains signal | No longer trustworthy post-Apple MPP | Track for trends not absolutes. Use reply rate as primary |
+
+---
+
 ## Contradiction 01 — Frequency vs Deliverability
 
 **Perspective A — Consistency first:**
