@@ -552,7 +552,7 @@ The question is "what is stopping them from getting value?"
 
 Fix the value gap first. The upgrade follows.
 
-### Behavioral Trigger Rules (Justin, Lifecycle Email Consultant)
+### Behavioral Trigger Rules ([Justin, Lifecycle Email Consultant](../research/experts/justin-lifecycle.md))
 
 Justin emphasizes that onboarding sequences succeed through **friction-reduction messaging**, not time-based cadence. Move from calendar-driven sends to product-activation-driven sends:
 
@@ -648,7 +648,7 @@ Sending emails to inactive subscribers:
 - Being ambiguous ("We miss you!") instead of direct ("You're about to be removed")
 - Not actually removing people after 7 days (you lose credibility)
 - Not segmenting by product engagement first (product inactivity is different from email inactivity)
-- **Underestimating acquisition costs.** Matt McGarry (Founder, Grow2Scale) notes that win-back sequences only work if initial subscriber acquisition cost ($0.50–$2.00/subscriber for paid acquisition) is factored into lifetime value calculations. If you're spending $1/subscriber to acquire, you need 12+ months of email engagement to justify the investment. Win-back only makes sense for high-LTV segments or strategic accounts.
+- **Underestimating acquisition costs.** [Matt McGarry](../research/experts/matt-mcgarry.md) (Founder, Grow2Scale) notes that win-back sequences only work if initial subscriber acquisition cost ($0.50–$2.00/subscriber for paid acquisition) is factored into lifetime value calculations. If you're spending $1/subscriber to acquire, you need 12+ months of email engagement to justify the investment. Win-back only makes sense for high-LTV segments or strategic accounts.
 
 ---
 
@@ -756,8 +756,8 @@ Add one behavioral signal per quarter:
 - Brennan Dunn, "Mastering Email Marketing with Brennan Dunn" (01.02.2023) https://www.youtube.com/watch?v=fyTfiMOgLbY
 
 ## Other Experts Cited
-- Matt McGarry, Founder, Grow2Scale: Newsletter acquisition economics and subscriber CAC analysis — referenced via GrowLetter newsletter content (2026); no single URL available as content is distributed across newsletter issues
-- Justin, Lifecycle Email Consultant: Behavioral trigger rules and friction-reduction copy frameworks — referenced via Exit Five community content (2026); no single public URL available
+- [Matt McGarry](../research/experts/matt-mcgarry.md), Founder, Grow2Scale: Newsletter acquisition economics and subscriber CAC analysis — referenced via GrowLetter newsletter content (2026); no single URL available as content is distributed across newsletter issues
+- [Justin, Lifecycle Email Consultant](../research/experts/justin-lifecycle.md): Behavioral trigger rules and friction-reduction copy frameworks — referenced via Exit Five community content (2026); no single public URL available
 
 ## Expert Scoring
 See `EXPERT-SELECTION-MATRIX.md` for full rubric and scores by expert.
